@@ -1,5 +1,5 @@
 // CSP451 CheckPoint 1 - JavaScript File
-console.log('Welcome to CSP451 CheckPoint 1!');
+console.log('Welcome to CSP451 Checkpoint 1!');
 console.log('This project demonstrates Git version control.');
 
 // Function to display current date
