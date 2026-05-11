@@ -61,7 +61,7 @@ git diff
 
 This project is created for educational purposes as part of CSP451 coursework at Seneca Polytechnic.
 
-Copyright (c) 2026
+Copyright (c) 2026 Alex Chang
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
