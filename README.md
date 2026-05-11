@@ -59,7 +59,7 @@ git diff
 
 ## License
 
-This project is created for educational purposes as part of CSP451 coursework at Seneca College.
+This project is created for educational purposes as part of CSP451 coursework at Seneca Polytechnic.
 
 Copyright (c) 2026
 
